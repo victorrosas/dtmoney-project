@@ -12,6 +12,7 @@ export const Content = styled.div`
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 
     button {
         font-size: 1rem;
